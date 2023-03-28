@@ -1,4 +1,4 @@
-## [rsschool-cv](ссылканамоеСВ)
+## [rsschool-cv](https://alexdum123.github.io/rsschool-cv/cv)
 
 # Alexandr dumanskiy
 
